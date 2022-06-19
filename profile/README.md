@@ -14,4 +14,4 @@ This includes
     iii) the [latest](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS/Latest_Version) release for GMACS;
     
   * A [User-manual](https://github.com/GMACS-project/User-manual) repository which is in development.
-  * An R package [gmr] allowing to work with GMACS.
+  * An R package [gmr](https://github.com/GMACS-project/gmr) allowing to work with GMACS.
