@@ -1,17 +1,19 @@
 # Welcome! 
 
-GMACS-project is a Github organization that hosts a number of open-source projects (under development) that aim to provide tools for Crustaceans stock assessment. Specifically, this organization gives you access to different repositories used to develop and spread A generalized size-structured stock assessment modelling framework (_GMACS_). 
+GMACS-project is a Github organization that hosts a number of open-source projects (under development) that aim to provide tools for Crustaceans stock assessment. Specifically, this organization gives you access to repositories associated with {_GMACS_}, a Generalized size-structured Model to Assess Crustaceans Species. 
 
 This includes
-  * The old repository for [Gmacs](https://github.com/GMACS-project/gmacs) (holding old versions and files);
-  * The new repository for [Gmacs](https://github.com/GMACS-project/GMACS_Assessment_code) that holds:
+  * The [old repository](https://github.com/GMACS-project/gmacs) for Gmacs (holding old versions and files);
+  * The [new repository[(https://github.com/GMACS-project/GMACS_Assessment_code) for Gmacs where you can find:
 
-    i) old development versions [GMACS_Orig](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_Orig) and , 
+    i) the old development versions GMACS in [GMACS_Orig](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_Orig) and 
     [GMACS_Terminal_molt](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_Terminal_molt),
     
-    ii) the [current](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS/Dvpt_Version) developpement version and, 
+    ii) the [current](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS/Dvpt_Version) developpement version and,
     
     iii) the [latest](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS/Latest_Version) release for GMACS;
     
   * A [User-manual](https://github.com/GMACS-project/User-manual) repository which is in development.
   * An R package [gmr](https://github.com/GMACS-project/gmr) allowing to work with GMACS.
+
+<img align="left" src="https://raw.githubusercontent.com/nmfs-general-modeling-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" height="75" width="400" alt="NOAA Fisheries"> 
