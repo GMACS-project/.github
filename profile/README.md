@@ -4,9 +4,9 @@ GMACS-project is a Github organization that hosts a number of open-source projec
 
 This includes
   * The [old repository](https://github.com/GMACS-project/gmacs) for Gmacs (holding old versions and files);
-  * The [new repository[(https://github.com/GMACS-project/GMACS_Assessment_code) for Gmacs where you can find:
+  * The [new repository](https://github.com/GMACS-project/GMACS_Assessment_code) for Gmacs where you can find:
 
-    i) the old development versions GMACS in [GMACS_Orig](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_Orig) and 
+    i) the old development versions of GMACS in [GMACS_Orig](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_Orig) and 
     [GMACS_Terminal_molt](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_Terminal_molt),
     
     ii) the [current](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS/Dvpt_Version) developpement version and,
