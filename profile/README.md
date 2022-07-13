@@ -16,4 +16,4 @@ This includes
   * A [User-manual](https://github.com/GMACS-project/User-manual) repository which is in development.
   * An R package [gmr](https://github.com/GMACS-project/gmr) allowing to work with GMACS.
 
-<img align="left" src="https://raw.githubusercontent.com/nmfs-general-modeling-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" height="75" width="400" alt="NOAA Fisheries"> 
+<img align="right" src="https://raw.githubusercontent.com/nmfs-general-modeling-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" width="400" alt="NOAA Fisheries"> 
