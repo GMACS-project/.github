@@ -1,6 +1,6 @@
 # Welcome! 
 
-GMACS-project is a Github organization that hosts a number of open-source projects (under development) that aim to provide tools for Crustaceans stock assessment. Specifically, this organization gives you access to repositories associated with {_GMACS_}, a Generalized size-structured Model to Assess Crustaceans Species. 
+GMACS-project is a Github organization that hosts a number of open-source projects (under development) that aim to provide tools for Crustacean stock assessments. Specifically, this organization gives you access to repositories associated with {_GMACS_}, the Generalized size-structured Model for Assessing Crustacean Stocks. 
 
 This includes
   - The [old repository](https://github.com/GMACS-project/gmacs) for Gmacs (holding old versions and files);
