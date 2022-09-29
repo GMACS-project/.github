@@ -3,7 +3,7 @@
 GMACS-project is a Github organization that hosts a number of open-source projects (under development) that aim to provide tools for Crustacean stock assessments. Specifically, this organization gives you access to repositories associated with {_GMACS_}, the Generalized size-structured Model for Assessing Crustacean Stocks. 
 
 This includes
-  - The [old repository](https://github.com/GMACS-project/gmacs) for Gmacs (holding old versions and files);
+  - The [old repository](https://github.com/GMACS-project/gmacs) for Gmacs (holding old versions and files) - This repo is not usefull anymore;
   - The [new repository](https://github.com/GMACS-project/GMACS_Assessment_code) for Gmacs where you can find:
   
     i) the old development versions of GMACS in [GMACS_Orig](https://github.com/GMACS-project/GMACS_Assessment_code/tree/main/GMACS_versions/GMACS_Orig) and 
